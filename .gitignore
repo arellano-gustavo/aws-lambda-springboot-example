@@ -1,0 +1,11 @@
+/target/
+/.settings/
+.classpath
+.project
+/log/
+/pdf/*.pdf
+.DS_Store
+.idea/
+*.iml
+/upload/*.ffff
+*.xlsx
